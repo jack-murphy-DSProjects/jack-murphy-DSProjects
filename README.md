@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jack-murphy-DSProjects
 
-Data scientist keen to improve my analytics & machine learning skills across a range of domains. 
-Primarily experienced in FMCG / retail / CPG industries. Also have consulting, sales & start up experience.
-Other personal areas of interest include sport, finance, sustainability & healthcare projects. 
+Data scientist with 3 years’ experience in FMCG/retail, 1.5 years in technology and a superb academic record. Additional experience working with start-ups and SME's on data strategy and growth.
+
+Focused on leveraging data science to drive commercial performance and strategy. Building data led frameworks for monitoring performance and driving strategic action. Design & implementation of experiments, KPIs and growth targets to size/prioritise opportunities. Causal inference, statistics & predictive ML with a commercial focus.
 
 Feel free to reach out to me through email: jackmurphy832@gmail.com
