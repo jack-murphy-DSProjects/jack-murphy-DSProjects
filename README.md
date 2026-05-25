@@ -6,4 +6,4 @@ Focused on leveraging data science to drive commercial performance and strategy.
 
 Feel free to reach out to me through email: jackmurphy832@gmail.com
 
-Recent project from post:  [`README.md`](../README.md) 
+Recent project from post:  
