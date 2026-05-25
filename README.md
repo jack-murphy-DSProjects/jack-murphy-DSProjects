@@ -5,3 +5,5 @@ Data scientist with 3 years’ experience in FMCG/retail, 1.5 years in technolog
 Focused on leveraging data science to drive commercial performance and strategy. Building data led frameworks for monitoring performance and driving strategic action. Causal inference, statistics & predictive ML with a commercial focus.
 
 Feel free to reach out to me through email: jackmurphy832@gmail.com
+
+Recent project from post: README.md 
